@@ -327,6 +327,19 @@ The project achieved the following:
 
 The backup system successfully protected AWS infrastructure resources and ensured reliable recovery capabilities for both EC2 and RDS services.
 
+## Project Screenshots
+
+### RDS Database
+![RDS](screenshots/picture2.png)
+
+### Backup Plan
+![Backup Plan](screenshots/picture9.png)
+
+### Recovery Points
+![Recovery Points](screenshots/picture11.png)
+
+### vault
+![vault](screenshots/picture10.png)
 
 Result:
 Backup jobs completed successfully and recovery points were created.
